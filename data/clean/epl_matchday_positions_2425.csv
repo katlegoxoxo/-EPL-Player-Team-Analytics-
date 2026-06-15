@@ -1,0 +1,761 @@
+matchday,team,position
+1,Brighton & Hove Albion,1
+1,Arsenal FC,2
+1,Liverpool FC,3
+1,Manchester City,4
+1,Aston Villa,5
+1,Brentford FC,6
+1,Manchester United,7
+1,Newcastle United,8
+1,AFC Bournemouth,9
+1,Leicester City,10
+1,Nottingham Forest,11
+1,Tottenham Hotspur,12
+1,Crystal Palace,13
+1,West Ham United,14
+1,Fulham FC,15
+1,Southampton FC,16
+1,Chelsea FC,17
+1,Ipswich Town,18
+1,Wolverhampton Wanderers,19
+1,Everton FC,20
+2,Manchester City,1
+2,Brighton & Hove Albion,2
+2,Arsenal FC,3
+2,Liverpool FC,4
+2,Tottenham Hotspur,5
+2,Newcastle United,6
+2,Nottingham Forest,7
+2,Chelsea FC,8
+2,West Ham United,9
+2,Fulham FC,10
+2,Manchester United,11
+2,Aston Villa,12
+2,Brentford FC,13
+2,AFC Bournemouth,14
+2,Leicester City,15
+2,Southampton FC,16
+2,Crystal Palace,17
+2,Ipswich Town,18
+2,Wolverhampton Wanderers,19
+2,Everton FC,20
+3,Manchester City,1
+3,Liverpool FC,2
+3,Brighton & Hove Albion,3
+3,Arsenal FC,4
+3,Newcastle United,5
+3,Brentford FC,6
+3,Aston Villa,7
+3,AFC Bournemouth,8
+3,Nottingham Forest,9
+3,Tottenham Hotspur,10
+3,Chelsea FC,11
+3,Fulham FC,12
+3,West Ham United,13
+3,Manchester United,14
+3,Leicester City,15
+3,Crystal Palace,16
+3,Ipswich Town,17
+3,Wolverhampton Wanderers,18
+3,Southampton FC,19
+3,Everton FC,20
+4,Manchester City,1
+4,Arsenal FC,2
+4,Newcastle United,3
+4,Liverpool FC,4
+4,Aston Villa,5
+4,Brighton & Hove Albion,6
+4,Nottingham Forest,7
+4,Chelsea FC,8
+4,Brentford FC,9
+4,Manchester United,10
+4,AFC Bournemouth,11
+4,Fulham FC,12
+4,Tottenham Hotspur,13
+4,West Ham United,14
+4,Leicester City,15
+4,Crystal Palace,16
+4,Ipswich Town,17
+4,Wolverhampton Wanderers,18
+4,Southampton FC,19
+4,Everton FC,20
+5,Manchester City,1
+5,Liverpool FC,2
+5,Aston Villa,3
+5,Arsenal FC,4
+5,Chelsea FC,5
+5,Newcastle United,6
+5,Brighton & Hove Albion,7
+5,Nottingham Forest,8
+5,Fulham FC,9
+5,Tottenham Hotspur,10
+5,Manchester United,11
+5,Brentford FC,12
+5,AFC Bournemouth,13
+5,West Ham United,14
+5,Leicester City,15
+5,Crystal Palace,16
+5,Ipswich Town,17
+5,Southampton FC,18
+5,Everton FC,19
+5,Wolverhampton Wanderers,20
+6,Liverpool FC,1
+6,Manchester City,2
+6,Arsenal FC,3
+6,Chelsea FC,4
+6,Aston Villa,5
+6,Fulham FC,6
+6,Newcastle United,7
+6,Tottenham Hotspur,8
+6,Brighton & Hove Albion,9
+6,Nottingham Forest,10
+6,AFC Bournemouth,11
+6,Brentford FC,12
+6,Manchester United,13
+6,West Ham United,14
+6,Ipswich Town,15
+6,Everton FC,16
+6,Leicester City,17
+6,Crystal Palace,18
+6,Southampton FC,19
+6,Wolverhampton Wanderers,20
+7,Liverpool FC,1
+7,Manchester City,2
+7,Arsenal FC,3
+7,Chelsea FC,4
+7,Aston Villa,5
+7,Brighton & Hove Albion,6
+7,Newcastle United,7
+7,Fulham FC,8
+7,Tottenham Hotspur,9
+7,Nottingham Forest,10
+7,Brentford FC,11
+7,West Ham United,12
+7,AFC Bournemouth,13
+7,Manchester United,14
+7,Leicester City,15
+7,Everton FC,16
+7,Ipswich Town,17
+7,Crystal Palace,18
+7,Southampton FC,19
+7,Wolverhampton Wanderers,20
+8,Liverpool FC,1
+8,Manchester City,2
+8,Arsenal FC,3
+8,Aston Villa,4
+8,Brighton & Hove Albion,5
+8,Chelsea FC,6
+8,Tottenham Hotspur,7
+8,Nottingham Forest,8
+8,Newcastle United,9
+8,Fulham FC,10
+8,AFC Bournemouth,11
+8,Manchester United,12
+8,Brentford FC,13
+8,Leicester City,14
+8,West Ham United,15
+8,Everton FC,16
+8,Ipswich Town,17
+8,Crystal Palace,18
+8,Southampton FC,19
+8,Wolverhampton Wanderers,20
+9,Manchester City,1
+9,Liverpool FC,2
+9,Arsenal FC,3
+9,Aston Villa,4
+9,Chelsea FC,5
+9,Brighton & Hove Albion,6
+9,Nottingham Forest,7
+9,Tottenham Hotspur,8
+9,Brentford FC,9
+9,Fulham FC,10
+9,AFC Bournemouth,11
+9,Newcastle United,12
+9,West Ham United,13
+9,Manchester United,14
+9,Leicester City,15
+9,Everton FC,16
+9,Crystal Palace,17
+9,Ipswich Town,18
+9,Wolverhampton Wanderers,19
+9,Southampton FC,20
+10,Liverpool FC,1
+10,Manchester City,2
+10,Nottingham Forest,3
+10,Chelsea FC,4
+10,Arsenal FC,5
+10,Aston Villa,6
+10,Tottenham Hotspur,7
+10,Brighton & Hove Albion,8
+10,Fulham FC,9
+10,AFC Bournemouth,10
+10,Newcastle United,11
+10,Brentford FC,12
+10,Manchester United,13
+10,West Ham United,14
+10,Leicester City,15
+10,Everton FC,16
+10,Crystal Palace,17
+10,Ipswich Town,18
+10,Southampton FC,19
+10,Wolverhampton Wanderers,20
+11,Liverpool FC,1
+11,Manchester City,2
+11,Chelsea FC,3
+11,Arsenal FC,4
+11,Nottingham Forest,5
+11,Brighton & Hove Albion,6
+11,Fulham FC,7
+11,Newcastle United,8
+11,Aston Villa,9
+11,Tottenham Hotspur,10
+11,Brentford FC,11
+11,AFC Bournemouth,12
+11,Manchester United,13
+11,West Ham United,14
+11,Leicester City,15
+11,Everton FC,16
+11,Ipswich Town,17
+11,Crystal Palace,18
+11,Wolverhampton Wanderers,19
+11,Southampton FC,20
+12,Liverpool FC,1
+12,Manchester City,2
+12,Chelsea FC,3
+12,Arsenal FC,4
+12,Brighton & Hove Albion,5
+12,Tottenham Hotspur,6
+12,Nottingham Forest,7
+12,Aston Villa,8
+12,Fulham FC,9
+12,Newcastle United,10
+12,Brentford FC,11
+12,Manchester United,12
+12,AFC Bournemouth,13
+12,West Ham United,14
+12,Everton FC,15
+12,Leicester City,16
+12,Wolverhampton Wanderers,17
+12,Ipswich Town,18
+12,Crystal Palace,19
+12,Southampton FC,20
+13,Liverpool FC,1
+13,Arsenal FC,2
+13,Chelsea FC,3
+13,Brighton & Hove Albion,4
+13,Manchester City,5
+13,Nottingham Forest,6
+13,Tottenham Hotspur,7
+13,Brentford FC,8
+13,Manchester United,9
+13,Fulham FC,10
+13,Newcastle United,11
+13,Aston Villa,12
+13,AFC Bournemouth,13
+13,West Ham United,14
+13,Everton FC,15
+13,Leicester City,16
+13,Crystal Palace,17
+13,Wolverhampton Wanderers,18
+13,Ipswich Town,19
+13,Southampton FC,20
+14,Liverpool FC,1
+14,Chelsea FC,2
+14,Arsenal FC,3
+14,Manchester City,4
+14,Brighton & Hove Albion,5
+14,Fulham FC,6
+14,Nottingham Forest,7
+14,Aston Villa,8
+14,AFC Bournemouth,9
+14,Tottenham Hotspur,10
+14,Brentford FC,11
+14,Newcastle United,12
+14,Manchester United,13
+14,West Ham United,14
+14,Everton FC,15
+14,Leicester City,16
+14,Crystal Palace,17
+14,Ipswich Town,18
+14,Wolverhampton Wanderers,19
+14,Southampton FC,20
+15,Liverpool FC,1
+15,Chelsea FC,2
+15,Arsenal FC,3
+15,Manchester City,4
+15,Nottingham Forest,5
+15,Aston Villa,6
+15,Brighton & Hove Albion,7
+15,AFC Bournemouth,8
+15,Brentford FC,9
+15,Fulham FC,10
+15,Tottenham Hotspur,11
+15,Newcastle United,12
+15,Manchester United,13
+15,West Ham United,14
+15,Everton FC,15
+15,Leicester City,16
+15,Crystal Palace,17
+15,Ipswich Town,18
+15,Wolverhampton Wanderers,19
+15,Southampton FC,20
+16,Liverpool FC,1
+16,Chelsea FC,2
+16,Arsenal FC,3
+16,Nottingham Forest,4
+16,Manchester City,5
+16,AFC Bournemouth,6
+16,Aston Villa,7
+16,Fulham FC,8
+16,Brighton & Hove Albion,9
+16,Tottenham Hotspur,10
+16,Brentford FC,11
+16,Newcastle United,12
+16,Manchester United,13
+16,West Ham United,14
+16,Crystal Palace,15
+16,Everton FC,16
+16,Leicester City,17
+16,Ipswich Town,18
+16,Wolverhampton Wanderers,19
+16,Southampton FC,20
+17,Liverpool FC,1
+17,Chelsea FC,2
+17,Arsenal FC,3
+17,Nottingham Forest,4
+17,AFC Bournemouth,5
+17,Aston Villa,6
+17,Manchester City,7
+17,Newcastle United,8
+17,Fulham FC,9
+17,Brighton & Hove Albion,10
+17,Tottenham Hotspur,11
+17,Brentford FC,12
+17,Manchester United,13
+17,West Ham United,14
+17,Everton FC,15
+17,Crystal Palace,16
+17,Leicester City,17
+17,Wolverhampton Wanderers,18
+17,Ipswich Town,19
+17,Southampton FC,20
+18,Liverpool FC,1
+18,Arsenal FC,2
+18,Chelsea FC,3
+18,Nottingham Forest,4
+18,Newcastle United,5
+18,AFC Bournemouth,6
+18,Manchester City,7
+18,Fulham FC,8
+18,Aston Villa,9
+18,Brighton & Hove Albion,10
+18,Brentford FC,11
+18,Tottenham Hotspur,12
+18,West Ham United,13
+18,Manchester United,14
+18,Everton FC,15
+18,Crystal Palace,16
+18,Wolverhampton Wanderers,17
+18,Leicester City,18
+18,Ipswich Town,19
+18,Southampton FC,20
+19,Liverpool FC,1
+19,Arsenal FC,2
+19,Nottingham Forest,3
+19,Chelsea FC,4
+19,Newcastle United,5
+19,Manchester City,6
+19,AFC Bournemouth,7
+19,Fulham FC,8
+19,Aston Villa,9
+19,Brighton & Hove Albion,10
+19,Tottenham Hotspur,11
+19,Brentford FC,12
+19,West Ham United,13
+19,Manchester United,14
+19,Crystal Palace,15
+19,Everton FC,16
+19,Wolverhampton Wanderers,17
+19,Ipswich Town,18
+19,Leicester City,19
+19,Southampton FC,20
+20,Liverpool FC,1
+20,Arsenal FC,2
+20,Nottingham Forest,3
+20,Chelsea FC,4
+20,Newcastle United,5
+20,Go to matchday thread,6
+20,AFC Bournemouth,7
+20,Aston Villa,8
+20,Fulham FC,9
+20,Brighton & Hove Albion,10
+20,Brentford FC,11
+20,Tottenham Hotspur,12
+20,Manchester United,13
+20,West Ham United,14
+20,Crystal Palace,15
+20,Everton FC,16
+20,Wolverhampton Wanderers,17
+20,Ipswich Town,18
+20,Leicester City,19
+20,Southampton FC,20
+21,Liverpool FC,1
+21,Arsenal FC,2
+21,Nottingham Forest,3
+21,Newcastle United,4
+21,Chelsea FC,5
+21,Manchester City,6
+21,Aston Villa,7
+21,AFC Bournemouth,8
+21,Brighton & Hove Albion,9
+21,Fulham FC,10
+21,Brentford FC,11
+21,Manchester United,12
+21,West Ham United,13
+21,Tottenham Hotspur,14
+21,Crystal Palace,15
+21,Everton FC,16
+21,Wolverhampton Wanderers,17
+21,Ipswich Town,18
+21,Leicester City,19
+21,Southampton FC,20
+22,Liverpool FC,1
+22,Arsenal FC,2
+22,Nottingham Forest,3
+22,Chelsea FC,4
+22,Manchester City,5
+22,Newcastle United,6
+22,AFC Bournemouth,7
+22,Aston Villa,8
+22,Brighton & Hove Albion,9
+22,Fulham FC,10
+22,Brentford FC,11
+22,Crystal Palace,12
+22,Manchester United,13
+22,West Ham United,14
+22,Tottenham Hotspur,15
+22,Everton FC,16
+22,Wolverhampton Wanderers,17
+22,Ipswich Town,18
+22,Leicester City,19
+22,Southampton FC,20
+23,Liverpool FC,1
+23,Arsenal FC,2
+23,Nottingham Forest,3
+23,Manchester City,4
+23,Newcastle United,5
+23,Chelsea FC,6
+23,AFC Bournemouth,7
+23,Aston Villa,8
+23,Brighton & Hove Albion,9
+23,Fulham FC,10
+23,Brentford FC,11
+23,Manchester United,12
+23,Crystal Palace,13
+23,West Ham United,14
+23,Tottenham Hotspur,15
+23,Everton FC,16
+23,Leicester City,17
+23,Wolverhampton Wanderers,18
+23,Ipswich Town,19
+23,Southampton FC,20
+24,Liverpool FC,1
+24,Arsenal FC,2
+24,Nottingham Forest,3
+24,Chelsea FC,4
+24,Manchester City,5
+24,Newcastle United,6
+24,AFC Bournemouth,7
+24,Aston Villa,8
+24,Fulham FC,9
+24,Brighton & Hove Albion,10
+24,Brentford FC,11
+24,Crystal Palace,12
+24,Manchester United,13
+24,Tottenham Hotspur,14
+24,Everton FC,15
+24,West Ham United,16
+24,Wolverhampton Wanderers,17
+24,Leicester City,18
+24,Ipswich Town,19
+24,Southampton FC,20
+25,Liverpool FC,1
+25,Arsenal FC,2
+25,Nottingham Forest,3
+25,Manchester City,4
+25,AFC Bournemouth,5
+25,Chelsea FC,6
+25,Newcastle United,7
+25,Fulham FC,8
+25,Aston Villa,9
+25,Brighton & Hove Albion,10
+25,Brentford FC,11
+25,Tottenham Hotspur,12
+25,Crystal Palace,13
+25,Everton FC,14
+25,Manchester United,15
+25,West Ham United,16
+25,Wolverhampton Wanderers,17
+25,Ipswich Town,18
+25,Leicester City,19
+25,Southampton FC,20
+26,Liverpool FC,1
+26,Arsenal FC,2
+26,Nottingham Forest,3
+26,Manchester City,4
+26,Newcastle United,5
+26,AFC Bournemouth,6
+26,Chelsea FC,7
+26,Aston Villa,8
+26,Brighton & Hove Albion,9
+26,Fulham FC,10
+26,Brentford FC,11
+26,Tottenham Hotspur,12
+26,Crystal Palace,13
+26,Everton FC,14
+26,Manchester United,15
+26,West Ham United,16
+26,Wolverhampton Wanderers,17
+26,Ipswich Town,18
+26,Leicester City,19
+26,Southampton FC,20
+27,Liverpool FC,1
+27,Arsenal FC,2
+27,Nottingham Forest,3
+27,Manchester City,4
+27,Chelsea FC,5
+27,Newcastle United,6
+27,AFC Bournemouth,7
+27,Brighton & Hove Albion,8
+27,Fulham FC,9
+27,Aston Villa,10
+27,Brentford FC,11
+27,Crystal Palace,12
+27,Tottenham Hotspur,13
+27,Manchester United,14
+27,West Ham United,15
+27,Everton FC,16
+27,Wolverhampton Wanderers,17
+27,Ipswich Town,18
+27,Leicester City,19
+27,Southampton FC,20
+28,Liverpool FC,1
+28,Arsenal FC,2
+28,Nottingham Forest,3
+28,Chelsea FC,4
+28,Manchester City,5
+28,Newcastle United,6
+28,Brighton & Hove Albion,7
+28,AFC Bournemouth,8
+28,Aston Villa,9
+28,Fulham FC,10
+28,Crystal Palace,11
+28,Brentford FC,12
+28,Tottenham Hotspur,13
+28,Manchester United,14
+28,Everton FC,15
+28,West Ham United,16
+28,Wolverhampton Wanderers,17
+28,Ipswich Town,18
+28,Leicester City,19
+28,Southampton FC,20
+29,Liverpool FC,1
+29,Go to matchday thread,2
+29,Nottingham Forest,3
+29,Newcastle United,4
+29,Chelsea FC,5
+29,Manchester City,6
+29,Brighton & Hove Albion,7
+29,Fulham FC,8
+29,Aston Villa,9
+29,AFC Bournemouth,10
+29,Brentford FC,11
+29,Crystal Palace,12
+29,Manchester United,13
+29,Tottenham Hotspur,14
+29,Everton FC,15
+29,West Ham United,16
+29,Wolverhampton Wanderers,17
+29,Ipswich Town,18
+29,Leicester City,19
+29,Southampton FC,20
+30,Liverpool FC,1
+30,Arsenal FC,2
+30,Nottingham Forest,3
+30,Newcastle United,4
+30,Chelsea FC,5
+30,Manchester City,6
+30,Aston Villa,7
+30,Brighton & Hove Albion,8
+30,Fulham FC,9
+30,AFC Bournemouth,10
+30,Brentford FC,11
+30,Crystal Palace,12
+30,Manchester United,13
+30,Tottenham Hotspur,14
+30,Everton FC,15
+30,West Ham United,16
+30,Wolverhampton Wanderers,17
+30,Ipswich Town,18
+30,Leicester City,19
+30,Southampton FC,20
+31,Liverpool FC,1
+31,Arsenal FC,2
+31,Nottingham Forest,3
+31,Newcastle United,4
+31,Chelsea FC,5
+31,Manchester City,6
+31,Aston Villa,7
+31,Fulham FC,8
+31,Brighton & Hove Albion,9
+31,AFC Bournemouth,10
+31,Crystal Palace,11
+31,Brentford FC,12
+31,Manchester United,13
+31,Tottenham Hotspur,14
+31,Everton FC,15
+31,West Ham United,16
+31,Wolverhampton Wanderers,17
+31,Ipswich Town,18
+31,Leicester City,19
+31,Southampton FC,20
+32,Liverpool FC,1
+32,Arsenal FC,2
+32,Newcastle United,3
+32,Nottingham Forest,4
+32,Manchester City,5
+32,Chelsea FC,6
+32,Aston Villa,7
+32,AFC Bournemouth,8
+32,Fulham FC,9
+32,Brighton & Hove Albion,10
+32,Brentford FC,11
+32,Crystal Palace,12
+32,Everton FC,13
+32,Manchester United,14
+32,Tottenham Hotspur,15
+32,Wolverhampton Wanderers,16
+32,West Ham United,17
+32,Ipswich Town,18
+32,Leicester City,19
+32,Southampton FC,20
+33,Liverpool FC,1
+33,Arsenal FC,2
+33,Nottingham Forest,3
+33,Newcastle United,4
+33,Manchester City,5
+33,Chelsea FC,6
+33,Aston Villa,7
+33,AFC Bournemouth,8
+33,Fulham FC,9
+33,Brighton & Hove Albion,10
+33,Brentford FC,11
+33,Crystal Palace,12
+33,Everton FC,13
+33,Manchester United,14
+33,Wolverhampton Wanderers,15
+33,Tottenham Hotspur,16
+33,West Ham United,17
+33,Ipswich Town,18
+33,Leicester City,19
+33,Southampton FC,20
+34,Liverpool FC,1
+34,Arsenal FC,2
+34,Newcastle United,3
+34,Manchester City,4
+34,Chelsea FC,5
+34,Nottingham Forest,6
+34,Aston Villa,7
+34,Fulham FC,8
+34,Brighton & Hove Albion,9
+34,AFC Bournemouth,10
+34,Brentford FC,11
+34,Crystal Palace,12
+34,Wolverhampton Wanderers,13
+34,Manchester United,14
+34,Everton FC,15
+34,Tottenham Hotspur,16
+34,West Ham United,17
+34,Ipswich Town,18
+34,Leicester City,19
+34,Southampton FC,20
+35,Liverpool FC,1
+35,Arsenal FC,2
+35,Manchester City,3
+35,Newcastle United,4
+35,Chelsea FC,5
+35,Nottingham Forest,6
+35,Aston Villa,7
+35,AFC Bournemouth,8
+35,Brentford FC,9
+35,Brighton & Hove Albion,10
+35,Fulham FC,11
+35,Crystal Palace,12
+35,Wolverhampton Wanderers,13
+35,Everton FC,14
+35,Manchester United,15
+35,Tottenham Hotspur,16
+35,West Ham United,17
+35,Ipswich Town,18
+35,Leicester City,19
+35,Southampton FC,20
+36,Liverpool FC,1
+36,Arsenal FC,2
+36,Newcastle United,3
+36,Manchester City,4
+36,Chelsea FC,5
+36,Aston Villa,6
+36,Nottingham Forest,7
+36,Brentford FC,8
+36,Brighton & Hove Albion,9
+36,AFC Bournemouth,10
+36,Fulham FC,11
+36,Crystal Palace,12
+36,Everton FC,13
+36,Wolverhampton Wanderers,14
+36,West Ham United,15
+36,Manchester United,16
+36,Tottenham Hotspur,17
+36,Ipswich Town,18
+36,Leicester City,19
+36,Southampton FC,20
+37,Liverpool FC,1
+37,Arsenal FC,2
+37,Manchester City,3
+37,Newcastle United,4
+37,Chelsea FC,5
+37,Aston Villa,6
+37,Nottingham Forest,7
+37,Brighton & Hove Albion,8
+37,Brentford FC,9
+37,Fulham FC,10
+37,AFC Bournemouth,11
+37,Crystal Palace,12
+37,Everton FC,13
+37,Wolverhampton Wanderers,14
+37,West Ham United,15
+37,Manchester United,16
+37,Tottenham Hotspur,17
+37,Leicester City,18
+37,Ipswich Town,19
+37,Southampton FC,20
+38,Liverpool FC,1
+38,Arsenal FC,2
+38,Manchester City,3
+38,Chelsea FC,4
+38,Newcastle United,5
+38,Aston Villa,6
+38,Nottingham Forest,7
+38,Brighton & Hove Albion,8
+38,AFC Bournemouth,9
+38,Brentford FC,10
+38,Fulham FC,11
+38,Crystal Palace,12
+38,Everton FC,13
+38,West Ham United,14
+38,Go to matchday thread,15
+38,Wolverhampton Wanderers,16
+38,Tottenham Hotspur,17
+38,Leicester City,18
+38,Ipswich Town,19
+38,Southampton FC,20
